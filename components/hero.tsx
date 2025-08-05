@@ -87,7 +87,7 @@ export function Hero() {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="/placeholder-kk75z.png"
+                src="677390371b642f9f45086b13_BFS_Blog Images - Emrill.png"
                 alt="FinTech Dashboard"
                 className="w-full h-auto rounded-2xl shadow-2xl"
               />
