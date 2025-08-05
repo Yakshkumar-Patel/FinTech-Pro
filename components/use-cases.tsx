@@ -31,14 +31,14 @@ export function UseCases() {
       title: "Card Processing",
       description: "Accept all major card types with industry-leading security and competitive processing rates.",
       features: ["EMV compliance", "Tokenization", "Chargeback protection"],
-      image: "/placeholder-vx91s.png",
+      image: "Payment_Processing.webp",
     },
     {
       icon: Banknote,
       title: "Banking Services",
       description: "Offer comprehensive banking services including accounts, loans, and investment products.",
       features: ["Account management", "Loan origination", "Investment tools"],
-      image: "/placeholder-hkef8.png",
+      image: "banking-services-available-for-small-business.webp",
     },
     {
       icon: Plane,
